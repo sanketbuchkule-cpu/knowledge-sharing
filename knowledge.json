@@ -1,0 +1,11 @@
+[
+  {
+    "id": "ks_001",
+    "title": "Welcome to Knowledge Sharing",
+    "description": "This is a sample entry. Replace or delete it when you add your real knowledge items.",
+    "tags": ["sample", "instructions"],
+    "fileUrl": "https://your-onedrive-file-link",
+    "addedBy": "Admin",
+    "date": "2025-01-01"
+  }
+]
