@@ -2,19 +2,19 @@
   {
     "id": "ks_001",
     "title": "Welcome to Knowledge Sharing",
-    "description": "This is a sample entry. Replace or delete it when you add your real knowledge items.",
+    "description": "This is a sample entry.",
     "tags": ["sample", "instructions"],
     "fileUrl": "https://your-onedrive-file-link",
     "addedBy": "Admin",
     "date": "2025-01-01"
-  }
-   {
+  },
+  {
     "id": "ks_002",
-    "title": "Design utility",
-    "description": "This is a sample entry. Replace or delete it when you add your real knowledge items.",
-    "tags": ["ppt"],
-    "fileUrl": "https://ppt.com",
+    "title": "New Entry",
+    "description": "Another sample entry",
+    "tags": ["example"],
+    "fileUrl": "https://your-onedrive-file-link",
     "addedBy": "Admin",
-    "date": "2025-11-01"
+    "date": "2025-11-20"
   }
 ]
