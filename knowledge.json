@@ -8,4 +8,13 @@
     "addedBy": "Admin",
     "date": "2025-01-01"
   }
+   {
+    "id": "ks_002",
+    "title": "Design utility",
+    "description": "This is a sample entry. Replace or delete it when you add your real knowledge items.",
+    "tags": ["ppt"],
+    "fileUrl": "https://ppt.com",
+    "addedBy": "Admin",
+    "date": "2025-11-01"
+  }
 ]
