@@ -16,5 +16,22 @@
     "fileUrl": "https://your-onedrive-file-link",
     "addedBy": "Admin",
     "date": "2025-11-20"
+  },
+   {
+    "id": "ks_003",
+    "title": "Design Tools",
+    "description": "Another sample entry",
+    "tags": ["PPT"],
+    "fileUrl": "https://your-onedrive-PPT-link",
+    "addedBy": "Admin",
+    "date": "2025-12-20"
+  },{
+    "id": "ks_004",
+    "title": "Design Utility",
+    "description": "Another sample entry",
+    "tags": ["PPTx"],
+    "fileUrl": "https://your-onedrive-PPTx-link",
+    "addedBy": "Admin",
+    "date": "2025-13-20"
   }
 ]
